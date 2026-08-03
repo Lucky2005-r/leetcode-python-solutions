@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky2005-r/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -49,4 +51,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lakshmirds/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
